@@ -1,0 +1,40 @@
+h1{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: x-large;
+}
+#MainHeading{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-style: italic;
+    font-size: larger;
+}
+#Mail{
+    text-align:center;
+    background-color: black;
+    color: blanchedalmond;
+}
+#maddr{
+    text-align: center;
+}
+#Address{
+    text-align:center;
+    background-color: black;
+    color: blanchedalmond;
+}
+#naddr{
+    text-align: center;
+}
+#Mobile{
+     text-align:center;
+    background-color: black;
+    color: blanchedalmond;
+}
+#mbno{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
