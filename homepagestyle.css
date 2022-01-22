@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+}
+
+.navbar #navlogo{
+    margin: top 10px;;
+    width: 200px;
+    padding: 2px;
+ }
+ .navbar{
+     display: flex;
+     background-color: white;
+     justify-content: space-around;
+     
+ }
+ .navbar ul{
+    list-style-type: none;
+}
+.navbar li{
+    display: inline-block;
+    justify-content: center;
+
+}
+.navbar ul li a{
+    padding: 10px;
+    text-decoration: none;
+    color:orange;
+}
+.navbar ul li a:hover{
+    color: orchid;
+}
+#contactus{
+    margin-left: 47px;
+    margin-right: 47px;
+}
+#produts{
+    margin-left: 47px;
+    margin-right: 47px;
+}
+#aboutus{
+    margin-left: 47px;
+    margin-right: 47px;
+}
+#navlogo{
+    margin-top: 27px;
+}
+#intro{
+    text-align: center;
+    color: purple;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#Services{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#youtube{
+    margin: left 500px;;
+}
+    
